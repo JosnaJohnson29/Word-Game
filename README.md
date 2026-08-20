@@ -4,7 +4,7 @@ A simple Wordle-style word guessing game developed using Python.
 
 The player has 6 attempts to guess a randomly selected 5-letter word. The program provides colored feedback to help the player identify the correct letters and their positions.
 
-📌 Features
+📌 Features.
 🎯 Guess a random 5-letter word
 🔢 Maximum of 6 attempts
 ✅ Checks whether the entered word is valid

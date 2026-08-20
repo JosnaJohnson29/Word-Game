@@ -100,3 +100,8 @@ CHESS
 CHEST
 CHIEF
 phone
+Hello
+Toner
+Ocean
+Opera
+Omega
